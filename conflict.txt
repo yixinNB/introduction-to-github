@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 in the branch
 this is a tes
+=======
+in the main
+>>>>>>> main
